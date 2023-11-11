@@ -87,5 +87,6 @@ git clone --depth=1 https://github.com/hubbylei/luci-app-passwall
 git clone --depth=1 https://github.com/nickilchen/luci-app-socat
 git clone --depth=1 https://github.com/neatbasis/bandwidthd.git
 git clone --depth=1 https://github.com/AlexZhuo/luci-app-bandwidthd.git
-git clone --depth=1  https://github.com/wtc0der/wtBRMon.git
+git clone --depth=1 https://github.com/pyrovski/wrtbwmon.git
+git clone --depth=1 https://github.com/Kiougar/luci-wrtbwmon.git
 popd
